@@ -32,8 +32,8 @@ This repository focuses on the firmware implementation for the ESP32 microcontro
 
 ## Prototype Photos
 
-<img src="https://github.com/user-attachments/assets/19971688-61e3-476d-b840-3700af050ca2" alt="Alt text" width="500" height="200">
-<img src="https://github.com/user-attachments/assets/ce216e0c-a362-4924-9b6c-122442d0c8df" alt="Alt text" width="300" height="500">
+<img src="https://github.com/user-attachments/assets/19971688-61e3-476d-b840-3700af050ca2" alt="Alt text" width="400" height="200">
+<img src="https://github.com/user-attachments/assets/ce216e0c-a362-4924-9b6c-122442d0c8df" alt="Alt text" width="300" height="400">
 
 ## Demo Video
 [Demo Video](https://drive.google.com/file/d/16MWlpVKUYJ-HVTxK6Zk0srXYa2Ej0ukU/view?usp=sharing)
