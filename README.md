@@ -26,6 +26,11 @@ This repository focuses on the firmware implementation for the ESP32 microcontro
 - Arduino IoT Cloud
 - Arduino IDE
 
+## Prototype Photo
+![WhatsApp Image 2026-01-21 at 9 58 11 PM](https://github.com/user-attachments/assets/19971688-61e3-476d-b840-3700af050ca2)
+![WhatsApp Image 2026-01-06 at 10 21 34 AM](https://github.com/user-attachments/assets/44535ee2-86ce-4f0f-bb04-c42fd7272410)
+
+
 ## Testing
 
 Functional testing was performed using Black Box Testing to ensure all features operate according to system design.
