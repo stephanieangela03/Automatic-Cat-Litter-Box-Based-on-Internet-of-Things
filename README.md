@@ -30,10 +30,6 @@ This repository focuses on the firmware implementation for the ESP32 microcontro
 
 Functional testing was performed using Black Box Testing to ensure all features operate according to system design.
 
-## Academic Context
-
-This project was developed as a final thesis under the supervision of Dr. Mochammad Haldi Widianto, S.T., M.T. at BINUS University. The research was presented at the International Conference on Cybernetics and Intelligent Systems (ICORIS) 2024.
-
 ## Notes
 
 This repository only contains the firmware source code. Hardware design files, mechanical drawings, and full documentation are part of the academic thesis.
